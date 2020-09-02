@@ -1,7 +1,3 @@
-
-<!--
-**shahriar100/shahriar100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm Hasan  👋
 
 ## I'm a Machine Learning Developer, and Electrical Engineering student!
@@ -40,3 +36,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
+<br />
+
+[website]: https://github.com/shahriar100/ 
+[twitter]: https://twitter.com/MdShahriarHasa9
+[linkedin]: https://www.linkedin.com/in/md-shahriar-hasan/
