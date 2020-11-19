@@ -38,6 +38,7 @@
 <br />
 <br />
 
+![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=shahriar100&show_icons=true)
 [website]: https://github.com/shahriar100/ 
 [twitter]: https://twitter.com/MdShahriarHasa9
 [linkedin]: https://www.linkedin.com/in/md-shahriar-hasan/
